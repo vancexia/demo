@@ -1,0 +1,13 @@
+{
+    "name": "sensexia/demo",
+    "description": "a test project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xiayi",
+            "email": "692710893@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
