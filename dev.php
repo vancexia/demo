@@ -5,5 +5,6 @@
  * Date: 2019-08-27
  * Time: 10:02
  */
-echo 123;
-echo 123;
+echo 1;
+echo 2;
+echo 3;
