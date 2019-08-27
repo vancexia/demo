@@ -12,5 +12,5 @@ echo 4;
 echo 5;
 
 function bug1(){
-    echo 'this is bug1';
+    echo 'this is bug1_xy';
 }
